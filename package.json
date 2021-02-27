@@ -1,0 +1,20 @@
+{
+  "name": "lector-excel-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
